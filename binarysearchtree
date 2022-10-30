@@ -1,0 +1,16 @@
+Project-3
+Binary Search Tree 
+ 
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] 
+ 
+ root = 7
+
+ Stage 1 - The left side of the root has "5"
+ Stage 2 - The left side of the 5 has "1"
+ Stage 3 - The right side of the root has "8"
+ Stage 4 - The right side of the 1 has "3"
+ Stage 5 - The right side of the 5 has "6"
+ Stage 6 - The left side of the 1 has "0"
+ Stage 7 - The right side of the 8 has "9"
+ Stage 8 - The right side of the 3 has "4"
+ Stage 9 - The left side of the 3 has "2"
